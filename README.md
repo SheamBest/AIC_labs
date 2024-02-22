@@ -1,0 +1,1 @@
+This repository was created by Maksym Shelvakh, a 3rd-year student, for the purpose of studying the subject "Administration of information systems".
